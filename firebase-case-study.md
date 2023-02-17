@@ -1,15 +1,17 @@
 ---
-title: Example Product Case Study
-keywords: development platforms, example project, category name
-tags: Development Platforms, Example Project, Category Name
+title: Firebase Case Study
+keywords: development platforms, Firebase, hosting service, cloud
+tags: Development Platforms, Firebase, Hosting service
 sidebar: development-platforms
-permalink: development-platforms/example-product.html
+permalink: development-platforms/firebase-case-study.md
 folder: development-platforms
 ---
 
 ## Introduction
 
-Summarise the product's primary purpose in one or two paragraphs.
+Google firebase is one of the most popular development platforms, and is an own ecosystem with multiple key features. It can be used in multiple stages of a project, as the backend of an website, or used to analyse you website.
+
+One reason for learning more about this product, is that all the services can be set up with ease. With little setup required to get started.
 
 ## Brief History
 
