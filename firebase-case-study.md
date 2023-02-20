@@ -79,6 +79,7 @@ Comparing Firebase Authentication and AWS Cognito:
 | 100,001 - 1,000,000| $0.0046 |
 | 1,000,001 - 10,000,000 | $0.00325 |
 | 10,000,000 + | $0.0025 |
+
 *Monthly Active Users
 
 in this example the cost is the same, so for some of their products, there is more reason to look at features and availability instead of pricing, although this does not apply to every feature.
