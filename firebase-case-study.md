@@ -101,7 +101,7 @@ By using Firebase you can remove the complexity of setting up your databases and
 
 ### Credits
 
-- Benik kvam (Puggen1)
+- Bendik kvam (Puggen1)
 
 #### References
 
