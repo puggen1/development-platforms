@@ -85,13 +85,17 @@ Comparing Firebase Authentication and AWS Cognito:
 in this example the cost is the same, so for some of their products, there is more reason to look at features and availability instead of pricing, although this does not apply to every feature.
 
 ### Usability
-I do not have too much experience with AWS, but after looking at the admin panel/console panel it looks a bit more professional than firebase. The firebase console looks clean and modern. When it comes to setup, for firebase the setup is usually a few steps, while on AWS there sometimes were A LOT of steps to finish, although they were useful steps, with much more freedom to configure than in firebase. Making firebase more simple, and AWS more flexible. Comparing the documentation, AWS looks much more professional, while firebase looks more user-friendly and easy to use. Both have great explanations and examples for their products. They both have sdks for many different programming languages. 
+I do not have too much experience with AWS, but after looking at the admin panel/console panel it looks a bit more professional than firebase. The firebase console looks clean and modern. When it comes to setup, for firebase the setup is usually a few steps, while on AWS there sometimes were A LOT of steps to finish, although they were useful steps, with much more freedom to configure than in firebase. Making firebase more simple, and AWS more flexible.
+
+Comparing the documentation, AWS looks much more professional, while firebase looks more user-friendly and easy to use. Both have great explanations and examples for their products, and they both have sdks for many different programming languages. 
+
 So if you are wondering which of the services you should pick, it depends on what you want to focus on, if you want an easy-to-use service, firebase might be the one. If you need many different services for your product, AWS has a lot to offer, but demands more setup and learning about how to use it. 
 
 ## Summary
 Google Firebase is a great service, with easy-to-use services and good documentation. Their SDK makes it easy to 
 integrate their service into your app or website, in many ways such as directly through their SDK, or creating your own 
 backend service to customize things like error messages.  
+
 Their pricing makes it appealing to try it out, without using any money, and have competitive pricing in the market. 
 By using Firebase you can remove the complexity of setting up your databases and login systems for your website, 	giving more time to design. Having all these features on one provider will also minimize the setup of multiple different services. 
 
